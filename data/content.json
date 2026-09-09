@@ -2,13 +2,13 @@
   "contact": {
     "address": "יעל הגיבורה 62, מודיעין",
     "phone": "0548084011",
-    "email": "office@kolyehuda-shul.org",
+    "email": "kol-yehuda-modiin.netlify.app",
     "office_hours": "0"
   },
   "zmanim_weekday": {
     "shacharit": "06:00 · 08:00",
-    "mincha": "18:50",
-    "arvit": "19:40"
+    "mincha": "18:40",
+    "arvit": "19:30"
   },
   "torani": [
     {
